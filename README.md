@@ -15,3 +15,6 @@ X1 Racing's flying car program. The goal is to design, build, and test the ultim
 - **Website:** [x1racing.com](https://x1racing.com)
 - **Rule book:** [x1racing.com/rule-book](https://x1racing.com/rule-book)
 - **X:** [@realx1racing](https://x.com/realx1racing)
+- **TikTok:** [@realx1racing](https://www.tiktok.com/@realx1racing)
+- **Truth Social:** [@realx1racing](https://truthsocial.com/@realx1racing)
+- **YouTube:** [@realX1Racing](https://www.youtube.com/@realX1Racing)
