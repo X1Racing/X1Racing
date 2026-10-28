@@ -7,7 +7,7 @@ Flying car racing series. Remotely piloted, boosted by SI.
 X1 Racing's flying car program. The goal is to design, build, and test the ultimate flying car, and we invite collaborators to join us.
 
 - **Organization:** [projectmaximumboost](https://github.com/projectmaximumboost)
-- **Design repo (X1 SkyRacer):** [projectmaximumboost/x1skyracer](https://github.com/projectmaximumboost/x1skyracer) (private for now; contact us for access)
+- **Design repo (X1 SkyRacer):** [projectmaximumboost/x1skyracer](https://github.com/projectmaximumboost/x1skyracer) (public and open to everyone; read-only for non-collaborators)
 - **Project site:** [buildflyingcars.com](https://buildflyingcars.com)
 
 ## X1 Racing
